@@ -102,6 +102,6 @@ copyright and licence notice are retained.
 
 <div align="center">
   <a href="https://www.holoss.com">HOLOSS — Holistic and Ontological Solutions for Sustainability</a>
-</div>
+<div align="center">
   <a href="https://www.jfcaetano.com">Developed by José Ferraz-Caetano</a>
 </div>
